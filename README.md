@@ -10,5 +10,6 @@ These examples cover some of the basics of d3, data joins, and scales
 * d3.js -- d3.js V7
 * l03.js -- Example of raw Javascript SVG construction from Lecture 03
 * l04.js -- Example of a data join from L04, as well as a subset of the commands i executed in the console
+* l04_scales.js -- Recreates l04.js using scales
 
 
